@@ -6,12 +6,12 @@ output: html_document
 
 
 The data set contains data obtained from an experiement involving 30 volunteers who worn smartwatch while perfomring one of six activities:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+(1) WALKING
+(2) WALKING_UPSTAIRS
+(3) WALKING_DOWNSTAIRS
+(4) SITTING
+(5) STANDING
+(6) LAYING
 
 The data set summarises key sensor data by activity type and volunteer (subject).
 
