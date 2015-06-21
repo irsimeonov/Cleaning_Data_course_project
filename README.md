@@ -18,13 +18,13 @@ activity_labels.txt - maps acitivity number to activity name
 features.txt - identifies the name of each variables in the X_train.txt or X_test.txt files
 
 
-  2. Transformation
+2. Transformation
   
-  The script joins the testing and training sets together by appending the testing set below the training one.
-  It identifies the subject and activity for each observation (row)
-  Then it creates a new set (tidySet) that summarises mean and standard deviation of signal data for each observation by calculation the mean of each.
+The script joins the testing and training sets together by appending the testing set below the training one.
+It identifies the subject and activity for each observation (row)
+Then it creates a new set (tidySet) that summarises mean and standard deviation of signal data for each observation by calculation the mean of each.
   
-  3. Output
+3. Output
   
-  It outputs tidySet.txt with the tidy set explain above.
+It outputs tidySet.txt with the tidy set explain above.
   
